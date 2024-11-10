@@ -2,10 +2,10 @@
 
 
 ## Implementation
-
+Added textures and lights
 ## References
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Ian Smith
